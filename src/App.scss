@@ -1,0 +1,7 @@
+.section-group .button-group .saham:hover {
+  background: aqua;
+}
+
+.section-group .button-group .saham:hover ~ .section-group .image-group .saham {
+  background: red;
+}
